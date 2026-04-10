@@ -25,22 +25,22 @@
 //   console.log(raqam4 * raqam4);
 // }
 
-// let a = Number(prompt("Son kiriting:"));
+// let b = Number(prompt("Son kiriting:"));
 
-// for (let raqam5 = 1;raqam5 <=a;raqam5++){
+// for (let raqam5 = 1;raqam5 <=b;raqam5++){
 //     if(raqam5 % 3 == 0){
 //         console.log(raqam5)
 //     }
 // }
 
-// let b = 1;
-// let a = Number(prompt("Son kiriting:"));
+// let d = 1;
+// let c = Number(prompt("Son kiriting:"));
 
-// for (let raqam6 = 1; raqam6 <= a; raqam6++) {
+// for (let raqam6 = 1; raqam6 <= c; raqam6++) {
 //     b *= raqam6;
 // }
 
-// console.log(b);
+// console.log(d);
 
 // for (let raqam7 = 1; raqam7 <= 100; raqam7++) {
 //   if (raqam7 % 5 == 0 && raqam7 % 7 == 0) {
@@ -54,9 +54,9 @@
 
 // let yigindi2 = 0
 
-// let a = Number(prompt("Son kiriting:"));
+// let e = Number(prompt("Son kiriting:"));
 
-// for (let raqam9 = 1; raqam9 <= a; raqam9++) {
+// for (let raqam9 = 1; raqam9 <= e; raqam9++) {
 //   if (raqam9 % 2 == 1) {
 //     yigindi2 += raqam9;
 //   }
@@ -64,9 +64,9 @@
 // console.log(yigindi2);
 
 // let son = 0
-// let a = Number(prompt("Son kiriting:"));
+// let f = Number(prompt("Son kiriting:"));
 
-// for(let raqam10 = 1; raqam10 <= a;raqam10++){
+// for(let raqam10 = 1; raqam10 <= f;raqam10++){
 //     if(raqam10 % 2 == 0){
 //         son++
 //     }
@@ -74,9 +74,9 @@
 // console.log(son);
 
 // let max = 0;
-// let a = Number(prompt("Son kiriting:"));
+// let g = Number(prompt("Son kiriting:"));
 
-// for (let raqam11 = 1; raqam11 <= a; raqam11++) {
+// for (let raqam11 = 1; raqam11 <= g; raqam11++) {
 //     if (raqam11 > max) {
 //         max = raqam11;
 //     }
@@ -92,16 +92,16 @@
 // }
 // console.log(son2);
 
-// let a = Number(prompt("Son kiriting:"));
+// let h = Number(prompt("Son kiriting:"));
 
-// for (let raqam13 = 1; raqam13 <= a; raqam13++) {
+// for (let raqam13 = 1; raqam13 <= h; raqam13++) {
 //   if (raqam13 > 10) {
 //     console.log(raqam13);
 //   }
 // }
 
-// let a = Number(prompt("Son kiriting:"));
-// let b = Number(prompt("Karra jadvali nechchigacha bo'lsin:"));
-// for (let raqam14 = 1; raqam14 <= b; raqam14++) {
-//   console.log(a + " x " + raqam14 + " = " + (a * raqam14));
+// let i = Number(prompt("Son kiriting:"));
+// let j = Number(prompt("Karra jadvali nechchigacha bo'lsin:"));
+// for (let raqam14 = 1; raqam14 <= j; raqam14++) {
+//   console.log(i + " + " + raqam14 + " = " + (i * raqam14));
 // }
