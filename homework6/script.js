@@ -12,7 +12,7 @@
 //     if(raqam3 % 2 == 0){
 //         console.log(raqam3)
 //     }
-// }
+// }  
 
 // for (let raqam15 = 1;raqam15 <=50;raqam15++){
 //     if(raqam15 % 2 == 1){
