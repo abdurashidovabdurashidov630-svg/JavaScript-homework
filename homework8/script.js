@@ -31,7 +31,6 @@
 //   i++;
 // }
 
-// // do while
 // let j = 1;
 // do {
 //   if (j % 2 === 0) console.log(j);
